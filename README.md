@@ -8,10 +8,7 @@
 This is a ever growing list of domains who track, analyse and show banners.
 
 
-
-Devices and App/Addon used to create are: Android Box, uBlockOrigin, iOS and Android phones.
-
-
+Devices, apps and adons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box.
 
 If you rely on G A F A M, you can search for those domains and comment them out.
 
@@ -23,8 +20,10 @@ Also the section "Doublecheck" in the end can help.
 
 
 
-This can be used with DNS Level blockers like Blokada.org https://github.com/blokadaorg/,
+This can be used with Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock) 
+or DNS Level blockers like  [Blokada.org](https://github.com/blokadaorg) and
+[DNS666](https://f-droid.org/en/packages/org.jak_linux.dns66). 
 
-DNS666 https://f-droid.org/en/packages/org.jak_linux.dns66/ or Browser Extentions like uBlockOrigin https://github.com/gorhill/uBlock
+Chat on [Matrix](https://matrix.to/#/@allen_dema:matrix.org)
 
-
+![github commits](https://img.shields.io/github/last-commit/allendema/noplaylist)
