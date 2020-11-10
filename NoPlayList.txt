@@ -1,11 +1,12 @@
 # Web Beautifier by Allen
 # This list doesn't want to play!
 # NoPlayList
+# https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
 # Devices used to create this: Android Box, iOS and Android phones.
 # 09.11.2020
 
-##Reddit##
+## Reddit ##
 ads.reddit.com
 tracker.redditmedia.com
 stats.redditmedia.com
@@ -17,13 +18,13 @@ engine.a.redditmedia.com
 events.redditmedia.com
 tracker.redditmedia.com
 
-##Twitter##
+## Twitter ##
 p.twitter.com
 platform.twitter.com
 ads.twitter.com
 analytics.twitter.com
 
-##DDG & Search Engines##
+## DDG & Search Engines ##
 improving.duckduckgo.com
 ac.duckduckgo.com
 analytics.yahoo.com
@@ -38,16 +39,17 @@ google-analytics.com
 googlesyndication.com
 myphonenumbers-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
-static.doubleclick.net
-static.doubleclick.net
 ajax.googleapis.com
 imasdk.googleapis.com
 fonts.googleapis.com
 google-analytics.com
+firebase-settings.crashlytics.com
 userlocation.googleapis.com
 semanticlocation-pa.googleapis.com
 growth-pa.googleapis.com
-
+geomobileservices-pa.googleapis.com
+firebaseinstallations.googleapis.com
+androidpay-users-pa.googleapis.com # Even if I am not a user
 
 ## GGLkram ##
 adservice.google.com.vn
@@ -60,8 +62,9 @@ ajax.googleapis.com
 google-analytics.com
 ssl.google-analytics.com
 ajax.googleapis.com
+adservice.google.com
 
-## AMAZON.DE ##
+## AMAZOO ##
 amazon.de
 www.amazon.de
 associates-amazon.com
@@ -74,8 +77,14 @@ g-ecx.images-amazon.com
 images-amazon.com
 g-ec2.images-amazon.com
 certify-js.alexametrics.com
+aax-eu.amazon-adsystem.com
+fls-eu.amazon.de
+images-eu.ssl-images-amazon.com
+amzn.to # Amazon short links
+track.adform.net
+dukvfovjkn1hs
 
-##Streaming Sites##
+## Streaming Sites ##
 browser.events.data.microsoft.com
 kz1c.piguiqproxy.com
 ads3-adnow.com
@@ -97,8 +106,12 @@ init.startappservice.com
 imp.startappservice.com
 ofloc.map.baidu.com
 api.map.baidu.com
+st-n.ads1-adnow.comofloc.map.baidu.com
+loc.map.baidu.com
 api.vitamio.org
 api3.vitamio.org
+in.appcenter.ms
+
 
 ## Google Doubleclick ##
 2507573.fls.doubleclick.net
@@ -177,17 +190,6 @@ adform.net
 alexametrics.com
 google-analytics.com
 
-## Not Ama-zing-zon ##
-aax-eu.amazon-adsystem.com
-fls-eu.amazon.de
-amazon.de
-amazon.com
-images-eu.ssl-images-amazon.com
-amzn.to #Amazon short links
-tags.expo9.exponential.com
-track.adform.net
-dukvfovjkn1hs.cloudfront.net
-
 ## Faceb & Co. ##
 mmx-ds.cdn.whatsapp.net 
 clients2.google.com
@@ -201,11 +203,16 @@ scontent-frt3-2.xx.fbcdn.net
 facebook.com
 facebook.net
 connect.facebook.net
-app.analytics.snapchat.com
-ase.adserver.snapads.com
 graph.instagram.com
 i.instagram.com
 fbcdn.net
+
+## Snapchat ##
+app.analytics.snapchat.com
+ase.adserver.snapads.com
+usc.adserver.snapads.com
+app-analytics-v2.snapchat.com
+tr.snapchat.com
 
 ## Other ##
 ads.mopub.com
@@ -228,16 +235,10 @@ my.mobfox.com
 mc.yandex.ru
 fastlane.rubiconproject.com
 dlmghzdca.com
-www.amazon.de
-aax.amazon-adsystem.com
-aax-cpm.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
 adserver.merciless.fluidads.com
 cdn.sendpulse.com
-st-n.ads1-adnow.comofloc.map.baidu.com
-loc.map.baidu.com
-39.178.168.192.in.addr.a irpa
-##HardPort##
+
+## HardPort ##
 cdn.user-api.com
 cdn-images.mailchimp.com
 cdn.onesignal.com
@@ -565,7 +566,6 @@ adnxs.com
 adxpremium.services
 casalemedia.com
 
-
 ## Other ##
 youview.io
 adxbid.info
@@ -665,10 +665,11 @@ use.adserver.com
 
 ## Doublecheck ##
 #fonts.googleapis.com
-#api.mapbox.com #Used in Snapchat location, among others 
+#api.mapbox.com # Used in Snapchat location, among 
+
 #time.google.com # Always good to check first ")"
-#safebrowsing.googleapis.com #Checks your URLs for malware ")"
-edge-mqtt.facebook.com #Used to receive DMs and/or notifications ")"
+#safebrowsing.googleapis.com # Checks your URLs for malware ")"
+edge-mqtt.facebook.com # Used to receive DMs and/or notifications ")"
 amazon.com
 yahoo.com
 incoming.telemetry.mozilla.org
