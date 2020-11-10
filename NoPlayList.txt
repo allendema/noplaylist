@@ -28,9 +28,11 @@ improving.duckduckgo.com
 ac.duckduckgo.com
 analytics.yahoo.com
 yahoo.com
-s1.qwant.com #Had something with 3rd party URLs to do.
+adyen.com # Used in SwissCows
+www.smartredirect.de # Used in SwissCows
+s1.qwant.com # Had something with 3rd party URLs to do.
 
-##GGL Apis##
+## GGL Apis ##
 fonts.googleapis.com
 google-analytics.com
 googlesyndication.com
@@ -47,7 +49,7 @@ semanticlocation-pa.googleapis.com
 growth-pa.googleapis.com
 
 
-##GGLkram##
+## GGLkram ##
 adservice.google.com.vn
 pagead2.googlesyndication.com
 pubads.g.doubleclick.net
@@ -59,7 +61,7 @@ google-analytics.com
 ssl.google-analytics.com
 ajax.googleapis.com
 
-##AMAZON.DE##
+## AMAZON.DE ##
 amazon.de
 www.amazon.de
 associates-amazon.com
@@ -82,8 +84,12 @@ gogntrsm.com
 histats.com
 popads.net
 popcash.net
+dfmagazine.co.uk
+iamcdn.net
+multi.idocdn.com
+libedgolart.com
 
-##Android Box##
+## Android Box ##
 loc.map.baidu.com
 popads.net
 ads.cc
@@ -94,7 +100,7 @@ api.map.baidu.com
 api.vitamio.org
 api3.vitamio.org
 
-# Doubleclick
+## Google Doubleclick ##
 2507573.fls.doubleclick.net
 8522212.fls.doubleclick.net
 ad.doubleclick.com
@@ -135,7 +141,7 @@ www.doubleclick.com
 static.doubleclick.net
 
 
-# Google Analytics
+## Google Analytics ##
 apis.googletagmanager.com
 click.google-analytics.com
 htps.googletagmanager.com
@@ -159,19 +165,19 @@ fonts.gstatic.com
 googleadservices.com
 update.googleapis.com
 
-##FBBB##
+## FBBB ##
 ads.ak.facebook.com
 creative.ak.fbcdn.net
 connect.facebook.net
 google-analytics.com
 
-##Hard backed##
+## Hard Backed ##
 amazon-adsystem.com
 adform.net
 alexametrics.com
-
 google-analytics.com
 
+## Not Ama-zing-zon ##
 aax-eu.amazon-adsystem.com
 fls-eu.amazon.de
 amazon.de
@@ -182,7 +188,7 @@ tags.expo9.exponential.com
 track.adform.net
 dukvfovjkn1hs.cloudfront.net
 
-##Faceb & Co.##
+## Faceb & Co. ##
 mmx-ds.cdn.whatsapp.net 
 clients2.google.com
 z-p15-instagram.c10r.facebook.com
@@ -201,7 +207,7 @@ graph.instagram.com
 i.instagram.com
 fbcdn.net
 
-##Other##
+## Other ##
 ads.mopub.com
 creativecdn.com
 criteo.com
@@ -212,7 +218,7 @@ gumgum.com
 lijit.com
 quantserve.com
 rubiconproject.com
-
+jsc.mgid.com
 2mdn.net
 js-sec.indexww.com
 quantcast.mgr.consensu.org
@@ -247,9 +253,13 @@ mint.splunk.com
 motoads.com
 scandit.com
 tealium.com
-cdnshortpixel.ai 
+cdnshortpixel.ai
+www.sitelock.com
 geoip.insticator.com
 lupon.media
+api.idg.zone
+fireball.com
+tags.tiqcdn.com
 v.embed-cdn.com
 lupon.media
 projectagoratech.com
@@ -262,7 +272,7 @@ w3.org
 sandbox.geokaps.com
 
 
-##Notsogreat##
+## Notsogreat ##
 teads.tv
 casalemedia.com
 adxbid.me
@@ -284,7 +294,7 @@ cdn.polyfill.io
 platform.linkedin.com
 
 
-##Mobile Games##
+## Mobile Games ##
 api.gameanalytics.com
 app.adjust
 addelivery-engine-api.vodoo-ads.io
@@ -303,7 +313,7 @@ connect.tapjoy.com
 cdp.cloud.unity3d.com
 xnydasvpdqn.com
 
-##Streaming Sites##
+## Streaming Sites ##
 ad.sco.re
 c.adsco.re
 asewlfjqwlflkew.com
@@ -327,6 +337,7 @@ jsc.mgid.com
 newrelisc.com
 rpm.newrelisc.com
 hostfile.mine.nu
+tags2.adshell.net
 uydeapvmmlvdp.com
 cdn.jsdelivr.net
 paslsa.com
@@ -369,7 +380,7 @@ adexchangegate.com
 fingahvf.top
 
 
-##DISQUS##
+## DISQUS ##
 referrer.disqus.com
 disquscdn.com
 c.disquscdn.com
@@ -381,10 +392,11 @@ disqus.com
 disquscdn.com
 c.disquscdn.com
 
-##Popups & Similar
+## Popups & Similar ##
 click.jadspro.live
 xml.trafficmoose.com
 www.chdaismlykqep.com
+paslsa.com
 dqy6rzwcs.com
 fidelity.com
 chdaismlykqep.com	
@@ -554,13 +566,13 @@ adxpremium.services
 casalemedia.com
 
 
-##Other
+## Other ##
 youview.io
 adxbid.info
 bing.com
 adups.com
 
-##Trackers##
+## Trackers ##
 easyranking.de
 hitcount.de
 hitpage.de
@@ -598,6 +610,7 @@ demdex.net
 pubmatic.com
 dpm.demdex.net
 adnxs.com
+gwwzlwibbws.com
 adxbid.info
 adxpremium.services
 creativecdn.com
@@ -608,8 +621,6 @@ adyen.com
 online-metrix.net
 districtm.io
 emxdgt.com
-
-
 v3.fstats.xyz
 www.sqpgncbm.com
 o4uxrk33.com
@@ -623,7 +634,6 @@ rpm.newrelisc.com
 www.advinci.co
 hqq.tv
 deliver.vkcdnservice.com
-cdn.jsdelivr.net
 supercounters.com
 adskeeper.co.uk
 iyfnzgb.com
@@ -643,7 +653,7 @@ syndication.exdynsrv.com
 platfrom-api.sharethis.com
 cdnondemang.org
 
-##prvcy
+## prvcy ##
 csi.gstatic.com
 firebaseremoteconfig.googleapis.com
 graph.facebook.com
@@ -653,7 +663,7 @@ appspot.l.google.com
 use.adserver.com
 
 
-##Doublecheck##
+## Doublecheck ##
 #fonts.googleapis.com
 #api.mapbox.com #Used in Snapchat location, among others 
 #time.google.com # Always good to check first ")"
@@ -661,3 +671,4 @@ use.adserver.com
 edge-mqtt.facebook.com #Used to receive DMs and/or notifications ")"
 amazon.com
 yahoo.com
+incoming.telemetry.mozilla.org
