@@ -5,7 +5,7 @@
 
 
 
-This is a ever growing list of domains who track, analyse and show banners.
+<h4 align="center">This is a ever growing list of domains who track, analyse and show banners.<h4 align="center">
 
 
 Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
@@ -18,15 +18,15 @@ If other domains are listed here, but are important, open an issue or pull reque
 
 Also the section "Doublecheck" in the end can help.
 
+## Usage
 
+This can be used with:\
+Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock) \
+DNS Level blockers like [Blokada.org](https://github.com/blokadaorg), [DNS666](https://f-droid.org/en/packages/org.jak_linux.dns66)\
+Network Wide adblockers like [PiHole](https://pi-hole.net/) 
 
-This can be used with Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock) 
-or DNS Level blockers like  [Blokada.org](https://github.com/blokadaorg) and
-[DNS666](https://f-droid.org/en/packages/org.jak_linux.dns66). 
-
-Chat on [Matrix](https://matrix.to/#/@allen_dema:matrix.org)
-
-![licence](https://img.shields.io/badge/license-MIT-green)
+[![License: MIT License](https://img.shields.io/github/license/allendema/noplaylist)](https://github.com/allendema/noplaylist/blob/main/LICENSE)
 ![github commits](https://img.shields.io/github/last-commit/allendema/noplaylist)
 ![domains](https://img.shields.io/tokei/lines/github/allendema/noplaylist?color=yellow&label=domains)
 
+Chat on [![Chat on Matrix https://matrix.to/#/@allen_dema:matrix.org](https://img.shields.io/badge/1%3A1-Matrix-Yellow)](https://matrix.to/#/@allen_dema:matrix.org)
