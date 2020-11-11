@@ -8,7 +8,7 @@
 This is a ever growing list of domains who track, analyse and show banners.
 
 
-Devices, apps and adons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box.
+Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
 If you rely on G A F A M, you can search for those domains and comment them out.
 
@@ -26,4 +26,7 @@ or DNS Level blockers like  [Blokada.org](https://github.com/blokadaorg) and
 
 Chat on [Matrix](https://matrix.to/#/@allen_dema:matrix.org)
 
+![licence](https://img.shields.io/badge/license-MIT-green)
 ![github commits](https://img.shields.io/github/last-commit/allendema/noplaylist)
+![domains](https://img.shields.io/tokei/lines/github/allendema/noplaylist?color=yellow&label=domains)
+
