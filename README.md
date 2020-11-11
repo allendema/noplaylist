@@ -5,7 +5,7 @@
 
 
 
-<h4 align="center">This is a ever growing list of domains who track, analyse and show banners.<h4 align="center">
+This is a ever growing list of domains who track, analyse and show banners.
 
 
 Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
