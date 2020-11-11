@@ -3,8 +3,9 @@
 # NoPlayList
 # https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
-# Devices used to create this: Android Box, iOS and Android phones.
-# 09.11.2020
+# Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
+
+# 11.11.2020
 
 ## Reddit ##
 ads.reddit.com
@@ -82,7 +83,7 @@ fls-eu.amazon.de
 images-eu.ssl-images-amazon.com
 amzn.to # Amazon short links
 track.adform.net
-dukvfovjkn1hs
+static-eu.payments-amazon.com
 
 ## Streaming Sites ##
 browser.events.data.microsoft.com
@@ -91,7 +92,6 @@ ads3-adnow.com
 asqpniwvxea.com
 gogntrsm.com
 histats.com
-popads.net
 popcash.net
 dfmagazine.co.uk
 iamcdn.net
@@ -111,6 +111,7 @@ loc.map.baidu.com
 api.vitamio.org
 api3.vitamio.org
 in.appcenter.ms
+my.mobfox.com
 
 
 ## Google Doubleclick ##
@@ -229,9 +230,9 @@ jsc.mgid.com
 2mdn.net
 js-sec.indexww.com
 quantcast.mgr.consensu.org
+consensu.org
 yieldbird.com
 localads.maps.me
-my.mobfox.com
 mc.yandex.ru
 fastlane.rubiconproject.com
 dlmghzdca.com
@@ -254,6 +255,7 @@ mint.splunk.com
 motoads.com
 scandit.com
 tealium.com
+selltrafficfor.me
 cdnshortpixel.ai
 www.sitelock.com
 geoip.insticator.com
@@ -261,6 +263,8 @@ lupon.media
 api.idg.zone
 fireball.com
 tags.tiqcdn.com
+zopim.io
+
 v.embed-cdn.com
 lupon.media
 projectagoratech.com
@@ -343,7 +347,6 @@ uydeapvmmlvdp.com
 cdn.jsdelivr.net
 paslsa.com
 piguiqproxy.com
-popads.net
 c1.popads.net
 c2.popads.net
 freebeacon.com
@@ -370,6 +373,7 @@ platform-api.sharethis.com
 gravatar.com
 instant.page
 pagefair.com
+jtvnw.net
 pagefair.net
 pro-market.net
 pushbullet.com
@@ -442,9 +446,6 @@ mgid.com
 jsc.mgid.com
 oload.space
 tt1.oload.space
-popads.net
-c1.popads.net
-c2.popads.net
 spotscenered.info
 engine.spotscenered.info
 vidcpm.com
@@ -497,10 +498,7 @@ bc5i.routgveriprt.com
 www.qpianhkxxuc.com
 static.iloacmoam.com
 organize.central-messages.com
-dominos.com
 tyu1.routgveriprt.com
-c1.popads.net
-c2.popads.net
 www.uudehlgu.com
 flowgoder.cn
 shoppinglifestyle.biz
