@@ -35,15 +35,12 @@ www.smartredirect.de # Used in SwissCows
 s1.qwant.com # Had something with 3rd party URLs to do.
 
 ## GGL Apis ##
-fonts.googleapis.com
 google-analytics.com
 googlesyndication.com
 myphonenumbers-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
 ajax.googleapis.com
 imasdk.googleapis.com
-fonts.googleapis.com
-google-analytics.com
 firebase-settings.crashlytics.com
 userlocation.googleapis.com
 semanticlocation-pa.googleapis.com
@@ -51,6 +48,7 @@ growth-pa.googleapis.com
 geomobileservices-pa.googleapis.com
 firebaseinstallations.googleapis.com
 androidpay-users-pa.googleapis.com # Even if I am not a user
+people-pa.googleapis.com # Used by G Photos to do face-grouping.
 
 ## GGLkram ##
 adservice.google.com.vn
@@ -58,16 +56,12 @@ pagead2.googlesyndication.com
 pubads.g.doubleclick.net
 adservice.google.com
 cdn.ampproject.org
-people-pa.googleapis.com
-ajax.googleapis.com
-google-analytics.com
+people-pa.googleapis.com 
 ssl.google-analytics.com
-ajax.googleapis.com
 adservice.google.com
 
 ## AMAZOO ##
 amazon.de
-www.amazon.de
 associates-amazon.com
 www.amazon.de
 opodo.de
@@ -112,7 +106,7 @@ api.vitamio.org
 api3.vitamio.org
 in.appcenter.ms
 my.mobfox.com
-
+adups.com
 
 ## Google Doubleclick ##
 2507573.fls.doubleclick.net
@@ -264,7 +258,6 @@ api.idg.zone
 fireball.com
 tags.tiqcdn.com
 zopim.io
-
 v.embed-cdn.com
 lupon.media
 projectagoratech.com
@@ -384,7 +377,6 @@ pl14963927.pvclouds.com
 adexchangegate.com
 fingahvf.top
 
-
 ## DISQUS ##
 referrer.disqus.com
 disquscdn.com
@@ -469,7 +461,9 @@ projectagoratech.com
 cmap.alibaba.com	
 s.click.aliexpress.com	
 s-img.steepto.com
-film@ anash
+
+
+## Banners on Streaming Sites ##
 hofraxopw.com
 www.hofraxopw.com
 pl14963927.pvclouds.com
@@ -511,20 +505,18 @@ www.argggultrji.com
 www.izwffvgxs.com
 feed.seodollars.com
 statics.mystream.to
-bing.com
 malsup.github.io
 zuyvdqnsoq.mystream.io
 newnovads.com
 realktalk.xyz
 oecxrvamnvc.com
-gravatar.com
-www.gravatar.com
-www.2.gravatar.com
 v3.logger.pw
 uod2quk646.com
 fffff.at
 use.typekit.net
 analytics.agenedia.com
+youview.io
+adxbid.info
 p.typekit.net	
 ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com
 img.babsft.com
@@ -564,12 +556,6 @@ adnxs.com
 adxpremium.services
 casalemedia.com
 
-## Other ##
-youview.io
-adxbid.info
-bing.com
-adups.com
-
 ## Trackers ##
 easyranking.de
 hitcount.de
@@ -583,7 +569,6 @@ script.ioam.de
 serverkompetenz.net
 trafficcenter.de
 trk.newtention.n
-adform.net
 bh.contextweb.com
 contextweb.com
 dpm.demdex.ner
@@ -609,7 +594,6 @@ pubmatic.com
 dpm.demdex.net
 adnxs.com
 gwwzlwibbws.com
-adxbid.info
 adxpremium.services
 creativecdn.com
 criteo.com
@@ -642,20 +626,20 @@ ping.staticmoly.me
 stats.wp.com
 jsc.adskeeper.co.uk
 dfmagazone.co.uk
-d1qggq1at2gusn.cloudfront.net
-#02.05.20 #voe.sx
+d1qggq1at2gusn.cloudfront.net #02.05.20 
 petchesa.net
 moneymakercdn.com
 propellerclick.com
 syndication.exdynsrv.com
 platfrom-api.sharethis.com
 cdnondemang.org
+log.optimezely.com
+logs.optimzely.com
 
 ## prvcy ##
 csi.gstatic.com
 firebaseremoteconfig.googleapis.com
 graph.facebook.com
-people-pa.googleapis.com
 data.flurry.com
 appspot.l.google.com
 use.adserver.com
@@ -664,10 +648,13 @@ use.adserver.com
 ## Doublecheck ##
 #fonts.googleapis.com
 #api.mapbox.com # Used in Snapchat location, among 
-
 #time.google.com # Always good to check first ")"
 #safebrowsing.googleapis.com # Checks your URLs for malware ")"
 edge-mqtt.facebook.com # Used to receive DMs and/or notifications ")"
 amazon.com
 yahoo.com
+bing.com
+gravatar.com # Used by Wordpress
+www.gravatar.com
+www.2.gravatar.com
 incoming.telemetry.mozilla.org
