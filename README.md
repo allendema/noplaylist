@@ -18,9 +18,14 @@ If other domains are listed here, but are important, open an issue or pull reque
 
 Also the section "Doublecheck" in the end can help.
 
+## Link
+
+https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
+
+
 ## Usage
 
-This can be used with:\
+This collection can be used with:\
 Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock) \
 DNS Level blockers like [Blokada.org](https://github.com/blokadaorg), [DNS666](https://f-droid.org/en/packages/org.jak_linux.dns66)\
 Network Wide adblockers like [PiHole](https://pi-hole.net/) 
