@@ -79,6 +79,11 @@ amzn.to # Amazon short links
 track.adform.net
 static-eu.payments-amazon.com
 
+## Livescore ##
+aj1985.online
+v1.oddserve.com # Banner
+oddsserve-wqps7yvkz.stackpathdns.com # Banner
+
 ## Streaming Sites ##
 browser.events.data.microsoft.com
 kz1c.piguiqproxy.com
