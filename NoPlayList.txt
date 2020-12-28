@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 14.11.2020
+# 28.12.2020
 
 ## Reddit ##
 ads.reddit.com
@@ -288,6 +288,12 @@ m.servedby-buysellads.com
 ads.us.e-planning.net
 w3.org
 sandbox.geokaps.com
+
+## Vod@f0n3 ##
+
+beta.vodafone.de
+fc.vodafone.de
+tags.tiqcdn.com
 
 
 ## Notsogreat ##
