@@ -1,6 +1,6 @@
 # Web Beautifier by Allen
 
-# This list doesn't want to play!
+# This list doesn't play!
 
 
 
