@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 14.11.2020
+# 28.12.2020
 
 ## Reddit ##
 ads.reddit.com
@@ -288,6 +288,12 @@ m.servedby-buysellads.com
 ads.us.e-planning.net
 w3.org
 sandbox.geokaps.com
+
+## Vod@f0n3 ##
+
+beta.vodafone.de
+fc.vodafone.de
+tags.tiqcdn.com
 
 
 ## Notsogreat ##
@@ -594,6 +600,7 @@ contextweb.com
 dpm.demdex.ner
 track.adform.net
 dpcomepost.tt.omtrdc.net
+external.simpleanalytics.com
 mookie1.com
 spotxchange.com
 casalemedia.com
@@ -663,13 +670,14 @@ graph.facebook.com
 data.flurry.com
 appspot.l.google.com
 use.adserver.com
-
+cloudlareinsights.com
 
 ## Doublecheck ##
 #fonts.googleapis.com
 #api.mapbox.com # Used in Snapchat location, among 
 #time.google.com # Always good to check first ")"
 #safebrowsing.googleapis.com # Checks your URLs for malware ")"
+#privatestats.whatsapp.net # Sus for tracking
 edge-mqtt.facebook.com # Used to receive DMs and/or notifications ")"
 amazon.com
 yahoo.com
