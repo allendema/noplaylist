@@ -47,6 +47,9 @@ semanticlocation-pa.googleapis.com
 growth-pa.googleapis.com
 geomobileservices-pa.googleapis.com
 firebaseinstallations.googleapis.com
+datamixer.pa.googleapis.com
+sxone-pa.googleapis.com
+pay-users-pa.googleapis.com
 androidpay-users-pa.googleapis.com # Even if I am not a user
 people-pa.googleapis.com # Used by G Photos to do face-grouping.
 
@@ -59,6 +62,8 @@ cdn.ampproject.org
 people-pa.googleapis.com 
 ssl.google-analytics.com
 adservice.google.com
+dns.google
+
 
 ## AMAZOO ##
 amazon.de
@@ -415,6 +420,12 @@ disqus.com
 disquscdn.com
 c.disquscdn.com
 
+
+## Bloatware ##
+ms.applovin.com
+ms.applvn.com
+ads.nexage.com
+
 ## Popups & Similar ##
 click.jadspro.live
 xml.trafficmoose.com
@@ -650,6 +661,7 @@ velocitycdn.com
 statcounter.com
 celeritascdn.com
 ping.staticmoly.me
+graphql.usercentrics.eu
 stats.wp.com
 jsc.adskeeper.co.uk
 dfmagazone.co.uk
