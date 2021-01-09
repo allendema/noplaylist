@@ -65,7 +65,6 @@ ssl.google-analytics.com
 adservice.google.com
 dns.google
 
-
 ## AMAZOO ##
 amazon.de
 associates-amazon.com
@@ -160,7 +159,6 @@ www2.doubleclick.com
 www3.doubleclick.com
 www.doubleclick.com
 static.doubleclick.net
-
 
 ## Google Analytics ##
 apis.googletagmanager.com
@@ -297,7 +295,6 @@ w3.org
 sandbox.geokaps.com
 
 ## Vod@f0n3 ##
-
 beta.vodafone.de
 fc.vodafone.de
 tags.tiqcdn.com
@@ -500,7 +497,6 @@ cmap.alibaba.com
 s.click.aliexpress.com	
 s-img.steepto.com
 
-
 ## Banners on Streaming Sites ##
 hofraxopw.com
 www.hofraxopw.com
@@ -666,7 +662,7 @@ graphql.usercentrics.eu
 stats.wp.com
 jsc.adskeeper.co.uk
 dfmagazone.co.uk
-d1qggq1at2gusn.cloudfront.net #02.05.20 
+d1qggq1at2gusn.cloudfront.net
 petchesa.net
 moneymakercdn.com
 propellerclick.com
@@ -675,6 +671,8 @@ platfrom-api.sharethis.com
 cdnondemang.org
 log.optimezely.com
 logs.optimzely.com
+f.convertkit.com
+static.scroll.com
 
 ## prvcy ##
 csi.gstatic.com
