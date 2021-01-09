@@ -25,11 +25,12 @@ platform.twitter.com
 ads.twitter.com
 analytics.twitter.com
 
-## DDG & Search Engines ##
+## Search Engines ##
 improving.duckduckgo.com
 ac.duckduckgo.com
 analytics.yahoo.com
 yahoo.com
+mc.yandex.ru
 adyen.com # Used in SwissCows
 www.smartredirect.de # Used in SwissCows
 s1.qwant.com # Had something with 3rd party URLs to do.
@@ -48,7 +49,7 @@ growth-pa.googleapis.com
 geomobileservices-pa.googleapis.com
 firebaseinstallations.googleapis.com
 androidpay-users-pa.googleapis.com # Even if I am not a user
-people-pa.googleapis.com # Used by G Photos to do face-grouping.
+people-pa.googleapis.com # Used by G Photos to do face-grouping
 
 ## GGLkram ##
 adservice.google.com.vn
@@ -79,10 +80,11 @@ amzn.to # Amazon short links
 track.adform.net
 static-eu.payments-amazon.com
 
-## Livescore ##
+## Livescore.com ##
 aj1985.online
 v1.oddserve.com # Banner
 oddsserve-wqps7yvkz.stackpathdns.com # Banner
+content.livesportmedia.eu # Used by flashscore.de
 
 ## Streaming Sites ##
 browser.events.data.microsoft.com
@@ -105,7 +107,8 @@ init.startappservice.com
 imp.startappservice.com
 ofloc.map.baidu.com
 api.map.baidu.com
-st-n.ads1-adnow.comofloc.map.baidu.com
+st-n.ads1-adnow.com
+ofloc.map.baidu.com
 loc.map.baidu.com
 api.vitamio.org
 api3.vitamio.org
@@ -247,7 +250,6 @@ quantcast.mgr.consensu.org
 consensu.org
 yieldbird.com
 localads.maps.me
-mc.yandex.ru
 fastlane.rubiconproject.com
 dlmghzdca.com
 adserver.merciless.fluidads.com
@@ -295,7 +297,6 @@ beta.vodafone.de
 fc.vodafone.de
 tags.tiqcdn.com
 
-
 ## Notsogreat ##
 teads.tv
 casalemedia.com
@@ -316,7 +317,6 @@ stun.counterpath.com
 stun.voip.blackberry.com
 cdn.polyfill.io
 platform.linkedin.com
-
 
 ## Mobile Games ##
 api.gameanalytics.com
@@ -389,6 +389,7 @@ skimresources.com
 crsspxl.com
 deployads.com
 platform-api.sharethis.com
+iptvremote.ru
 gravatar.com
 instant.page
 pagefair.com
