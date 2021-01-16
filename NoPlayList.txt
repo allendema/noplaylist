@@ -1,11 +1,11 @@
 # Web Beautifier by Allen
-# This list doesn't want to play!
+# This list doesn't play!
 # NoPlayList
 # https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 28.12.2020
+# 17.01.2021
 
 ## Reddit ##
 ads.reddit.com
@@ -64,7 +64,6 @@ people-pa.googleapis.com
 ssl.google-analytics.com
 adservice.google.com
 dns.google
-
 
 ## AMAZOO ##
 amazon.de
@@ -161,12 +160,11 @@ www3.doubleclick.com
 www.doubleclick.com
 static.doubleclick.net
 
-
 ## Google Analytics ##
 apis.googletagmanager.com
 click.google-analytics.com
 htps.googletagmanager.com
-httpswww.googletagmanager.com
+www.googletagmanager.com
 google-analytics.com
 googletagmanager.com
 googletagservices.com
@@ -190,7 +188,6 @@ update.googleapis.com
 ads.ak.facebook.com
 creative.ak.fbcdn.net
 connect.facebook.net
-google-analytics.com
 
 ## Hard Backed ##
 amazon-adsystem.com
@@ -248,7 +245,6 @@ gumgum.com
 lijit.com
 quantserve.com
 rubiconproject.com
-jsc.mgid.com
 2mdn.net
 js-sec.indexww.com
 quantcast.mgr.consensu.org
@@ -287,7 +283,6 @@ tags.tiqcdn.com
 zopim.io
 v.embed-cdn.com
 lupon.media
-projectagoratech.com
 widgets.outbrain.com
 c.go-mpulse.net
 event.insticator.com
@@ -297,7 +292,6 @@ w3.org
 sandbox.geokaps.com
 
 ## Vod@f0n3 ##
-
 beta.vodafone.de
 fc.vodafone.de
 tags.tiqcdn.com
@@ -358,9 +352,6 @@ www.mgid.com
 v3.logger.pw
 maxcdn.bootstrapcdn.com
 www.chdaismlykqep.com
-pagead2.googlesyndication.com
-mgid.com
-www.googletagservices.com
 aj1433.online
 jsc.mgid.com
 newrelisc.com
@@ -465,7 +456,6 @@ exosrv.com
 www.xsnfmaxicj.com
 syndication.exosrv.com
 comscore.com
-www.google-analytics.com
 guce.advertising.com
 whitepages.com
 domslx.com
@@ -473,7 +463,6 @@ media-imdb.com
 scorecardresearch.com
 p.media-imdb.com
 mgid.com
-jsc.mgid.com
 oload.space
 tt1.oload.space
 spotscenered.info
@@ -499,7 +488,6 @@ projectagoratech.com
 cmap.alibaba.com	
 s.click.aliexpress.com	
 s-img.steepto.com
-
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
@@ -666,15 +654,24 @@ graphql.usercentrics.eu
 stats.wp.com
 jsc.adskeeper.co.uk
 dfmagazone.co.uk
-d1qggq1at2gusn.cloudfront.net #02.05.20 
+d1qggq1at2gusn.cloudfront.net
 petchesa.net
 moneymakercdn.com
 propellerclick.com
 syndication.exdynsrv.com
 platfrom-api.sharethis.com
 cdnondemang.org
+
+## Tech Sites ##
 log.optimezely.com
 logs.optimzely.com
+f.convertkit.com
+static.scroll.com
+narrativ.com
+parsely.com
+srvtrck.com
+sp-prod.net
+
 
 ## prvcy ##
 csi.gstatic.com
