@@ -112,8 +112,6 @@ imp.startappservice.com
 ofloc.map.baidu.com
 api.map.baidu.com
 st-n.ads1-adnow.com
-ofloc.map.baidu.com
-loc.map.baidu.com
 api.vitamio.org
 api3.vitamio.org
 in.appcenter.ms
@@ -179,7 +177,6 @@ www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 www.ctp.googletagmanager.com
-www.google.com
 fonts.gstatic.com
 googleadservices.com
 update.googleapis.com
@@ -238,12 +235,9 @@ www.soundhound.com # Music Recogintion
 ads.mopub.com
 creativecdn.com
 criteo.com
-criteo.net
 districtm.io
 emxdgt.com
-gumgum.com
 lijit.com
-quantserve.com
 rubiconproject.com
 2mdn.net
 js-sec.indexww.com
@@ -281,8 +275,6 @@ api.idg.zone
 fireball.com
 tags.tiqcdn.com
 zopim.io
-v.embed-cdn.com
-lupon.media
 widgets.outbrain.com
 c.go-mpulse.net
 event.insticator.com
@@ -298,7 +290,6 @@ tags.tiqcdn.com
 
 ## Notsogreat ##
 teads.tv
-casalemedia.com
 adxbid.me
 gumgum.com
 lijit.com
@@ -307,10 +298,7 @@ projectagoralibs.com
 projectagoraservices.com
 pubmatic.com
 quantcount.com
-quantserve.com
-scorecardresearch.com
 smartadserver.com
-adnxs.com
 onesignal.com
 stun.counterpath.com
 stun.voip.blackberry.com
@@ -370,7 +358,6 @@ cdn.siteswithcontent.com
 86a6b542l7.com
 adqy6rzwcs.com
 chdaismlykqep.com
-www.chdaismlykqep.com
 img.bet-at-home.com
 www.socialofferspromo.com
 ie8eamus.com
@@ -396,7 +383,6 @@ pushbullet.com
 quantserve.com
 scorecardresearch.com
 skimresources.com
-pl14963927.pvclouds.com
 adexchangegate.com
 fingahvf.top
 
@@ -405,13 +391,8 @@ referrer.disqus.com
 disquscdn.com
 c.disquscdn.com
 disqus.com
-referrer.disqus.com
 links.services.disqus.com
 realtime.services.disqus.com
-disqus.com
-disquscdn.com
-c.disquscdn.com
-
 
 ## Bloatware ##
 ms.applovin.com
@@ -422,21 +403,18 @@ ads.nexage.com
 click.jadspro.live
 xml.trafficmoose.com
 www.chdaismlykqep.com
-paslsa.com
 dqy6rzwcs.com
 fidelity.com
 chdaismlykqep.com	
 fingahvf.top
 splash-screen.vodoo-ads.io
 s7.addthis.com
-pl14963927.pvclouds.com
 maxcdn.bootstrapcdn.com
 piguiqproxy.com
 allrecepies.com
 cdn.pixfuture.com
 df80k0z3fi8zg.cloudfront.net
 ldgozccnwgtuya.com
-click.jadspro.live
 served-by.pixfuture.com
 xml.serverhost1.com
 jwpcdn.com
@@ -447,7 +425,6 @@ www.daqijjpjow.com
 cdn.taboola.com
 taboola.com
 vidcpm.com
-asqpniwvxea.com
 recoco.it
 collector.githubapp.com
 www.asqpniwvxea.com
@@ -460,7 +437,6 @@ guce.advertising.com
 whitepages.com
 domslx.com
 media-imdb.com
-scorecardresearch.com
 p.media-imdb.com
 mgid.com
 oload.space
@@ -562,7 +538,6 @@ global.stun.twilio.com
 waaw.tv
 cackle.me
 media.services.cinergy.ch
-ok.ru
 i.cackle.me
 code.ionicframework.com
 uprlyxksgcffgn.com
@@ -579,8 +554,6 @@ miro.medium.com
 idb-fac2.mgxcdn.ru
 www.qsfgszjm.com
 adnxs.com
-adxpremium.services
-casalemedia.com
 
 ## Trackers ##
 easyranking.de
@@ -619,7 +592,6 @@ ads.stickyadstv.com
 demdex.net
 pubmatic.com
 dpm.demdex.net
-adnxs.com
 gwwzlwibbws.com
 adxpremium.services
 creativecdn.com
@@ -672,7 +644,6 @@ parsely.com
 srvtrck.com
 sp-prod.net
 
-
 ## prvcy ##
 csi.gstatic.com
 firebaseremoteconfig.googleapis.com
@@ -692,6 +663,8 @@ edge-mqtt.facebook.com # Used to receive DMs and/or notifications ")"
 amazon.com
 yahoo.com
 bing.com
+www.google.com
+
 gravatar.com # Used by Wordpress
 www.gravatar.com
 www.2.gravatar.com
