@@ -1,11 +1,11 @@
 # Web Beautifier by Allen
-# This list doesn't want to play!
+# This list doesn't play!
 # NoPlayList
 # https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 12.01.2021
+# 17.01.2021
 
 ## Reddit ##
 ads.reddit.com
@@ -164,7 +164,7 @@ static.doubleclick.net
 apis.googletagmanager.com
 click.google-analytics.com
 htps.googletagmanager.com
-httpswww.googletagmanager.com
+www.googletagmanager.com
 google-analytics.com
 googletagmanager.com
 googletagservices.com
@@ -188,7 +188,6 @@ update.googleapis.com
 ads.ak.facebook.com
 creative.ak.fbcdn.net
 connect.facebook.net
-google-analytics.com
 
 ## Hard Backed ##
 amazon-adsystem.com
@@ -246,7 +245,6 @@ gumgum.com
 lijit.com
 quantserve.com
 rubiconproject.com
-jsc.mgid.com
 2mdn.net
 js-sec.indexww.com
 quantcast.mgr.consensu.org
@@ -285,7 +283,6 @@ tags.tiqcdn.com
 zopim.io
 v.embed-cdn.com
 lupon.media
-projectagoratech.com
 widgets.outbrain.com
 c.go-mpulse.net
 event.insticator.com
@@ -355,9 +352,6 @@ www.mgid.com
 v3.logger.pw
 maxcdn.bootstrapcdn.com
 www.chdaismlykqep.com
-pagead2.googlesyndication.com
-mgid.com
-www.googletagservices.com
 aj1433.online
 jsc.mgid.com
 newrelisc.com
@@ -462,7 +456,6 @@ exosrv.com
 www.xsnfmaxicj.com
 syndication.exosrv.com
 comscore.com
-www.google-analytics.com
 guce.advertising.com
 whitepages.com
 domslx.com
@@ -470,7 +463,6 @@ media-imdb.com
 scorecardresearch.com
 p.media-imdb.com
 mgid.com
-jsc.mgid.com
 oload.space
 tt1.oload.space
 spotscenered.info
@@ -677,6 +669,9 @@ f.convertkit.com
 static.scroll.com
 narrativ.com
 parsely.com
+srvtrck.com
+sp-prod.net
+
 
 ## prvcy ##
 csi.gstatic.com
