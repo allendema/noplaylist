@@ -6,6 +6,7 @@
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
 # 17.01.2021
+! Expires: 5 days
 
 ## Reddit ##
 ads.reddit.com
@@ -14,10 +15,8 @@ stats.redditmedia.com
 pixel.reddit.com
 events.reddit.com
 url.fastwebdns.com
-ads.reddit.com
 engine.a.redditmedia.com
 events.redditmedia.com
-tracker.redditmedia.com
 
 ## Twitter ##
 p.twitter.com
@@ -62,7 +61,6 @@ adservice.google.com
 cdn.ampproject.org
 people-pa.googleapis.com 
 ssl.google-analytics.com
-adservice.google.com
 dns.google
 
 ## AMAZOO ##
@@ -237,7 +235,6 @@ creativecdn.com
 criteo.com
 districtm.io
 emxdgt.com
-lijit.com
 rubiconproject.com
 2mdn.net
 js-sec.indexww.com
@@ -273,7 +270,6 @@ geoip.insticator.com
 lupon.media
 api.idg.zone
 fireball.com
-tags.tiqcdn.com
 zopim.io
 widgets.outbrain.com
 c.go-mpulse.net
@@ -296,7 +292,6 @@ lijit.com
 projectagora.net
 projectagoralibs.com
 projectagoraservices.com
-pubmatic.com
 quantcount.com
 smartadserver.com
 onesignal.com
@@ -339,7 +334,6 @@ tags.expo9.exponential.com
 www.mgid.com
 v3.logger.pw
 maxcdn.bootstrapcdn.com
-www.chdaismlykqep.com
 aj1433.online
 jsc.mgid.com
 newrelisc.com
@@ -374,17 +368,13 @@ deployads.com
 platform-api.sharethis.com
 iptvremote.ru
 gravatar.com
-instant.page
 pagefair.com
 jtvnw.net
 pagefair.net
-pro-market.net
 pushbullet.com
 quantserve.com
 scorecardresearch.com
-skimresources.com
 adexchangegate.com
-fingahvf.top
 
 ## DISQUS ##
 referrer.disqus.com
@@ -409,8 +399,6 @@ chdaismlykqep.com
 fingahvf.top
 splash-screen.vodoo-ads.io
 s7.addthis.com
-maxcdn.bootstrapcdn.com
-piguiqproxy.com
 allrecepies.com
 cdn.pixfuture.com
 df80k0z3fi8zg.cloudfront.net
@@ -424,7 +412,6 @@ tt1.openload.co
 www.daqijjpjow.com
 cdn.taboola.com
 taboola.com
-vidcpm.com
 recoco.it
 collector.githubapp.com
 www.asqpniwvxea.com
@@ -438,7 +425,6 @@ whitepages.com
 domslx.com
 media-imdb.com
 p.media-imdb.com
-mgid.com
 oload.space
 tt1.oload.space
 spotscenered.info
@@ -519,11 +505,9 @@ use.typekit.net
 analytics.agenedia.com
 youview.io
 adxbid.info
-p.typekit.net	
-ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com
+p.typekit.net
 img.babsft.com
-df80k0z3fi8zg.cloudfront.net	
-www.vidcpm.com
+df80k0z3fi8zg.cloudfront.net
 iqiznxqn.com
 lrd.to
 cdn4.telesco.pe
@@ -535,7 +519,6 @@ vjs.zencdn.net
 www.56.com
 vkcdnservice.appspot.com.storage.googleapis.com
 global.stun.twilio.com
-waaw.tv
 cackle.me
 media.services.cinergy.ch
 i.cackle.me
@@ -544,7 +527,6 @@ uprlyxksgcffgn.com
 www.xfasadle.com
 megadrive.co
 h4ahsm.vkcache.com
-global.stun.twilio.com
 waaw.tv
 cdn-s5.vkcache.com
 www.qaizylhmcxv.com
@@ -553,7 +535,6 @@ zqxmeahcm.com
 miro.medium.com
 idb-fac2.mgxcdn.ru
 www.qsfgszjm.com
-adnxs.com
 
 ## Trackers ##
 easyranking.de
@@ -567,11 +548,9 @@ rapidstats.de
 script.ioam.de
 serverkompetenz.net
 trafficcenter.de
-trk.newtention.n
 bh.contextweb.com
 contextweb.com
 dpm.demdex.ner
-track.adform.net
 dpcomepost.tt.omtrdc.net
 external.simpleanalytics.com
 mookie1.com
@@ -581,7 +560,6 @@ advertising.com
 bidswitch.net
 openx.net
 krxd.net
-doubleclick.net
 adnxs.com
 adsrvr.org
 everesttech.net
@@ -594,24 +572,16 @@ pubmatic.com
 dpm.demdex.net
 gwwzlwibbws.com
 adxpremium.services
-creativecdn.com
-criteo.com
 criteo.net
 visualwebsiteoptimizer.com
 adyen.com
 online-metrix.net
-districtm.io
-emxdgt.com
 v3.fstats.xyz
 www.sqpgncbm.com
 o4uxrk33.com
 pl14659153.passeura.com
-connect.facebook.net
 bebreloomr.com
-www.sqpgncbm.com
 www.huhkfzino.com
-cdn.siteswithcontent.com
-rpm.newrelisc.com
 www.advinci.co
 hqq.tv
 deliver.vkcdnservice.com
@@ -661,7 +631,6 @@ cloudlareinsights.com
 #privatestats.whatsapp.net # Sus for tracking
 edge-mqtt.facebook.com # Used to receive DMs and/or notifications ")"
 amazon.com
-yahoo.com
 bing.com
 www.google.com
 
