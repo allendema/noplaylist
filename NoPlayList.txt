@@ -283,6 +283,7 @@ sandbox.geokaps.com
 beta.vodafone.de
 fc.vodafone.de
 tags.tiqcdn.com
+gcmapi.vodafone.com
 
 ## Notsogreat ##
 teads.tv
@@ -299,6 +300,10 @@ stun.counterpath.com
 stun.voip.blackberry.com
 cdn.polyfill.io
 platform.linkedin.com
+startup.mobile.webvisor.com
+cdn.speedcurve.com
+xp.apple.com
+
 
 ## Mobile Games ##
 api.gameanalytics.com
@@ -603,6 +608,24 @@ propellerclick.com
 syndication.exdynsrv.com
 platfrom-api.sharethis.com
 cdnondemang.org
+cdn.amplitude.com
+prebid.media.net
+prebid-server.rubiconproject.com
+gum.criteo.com
+bidder.criteo.com
+delivery.swid.swichtadhub.com
+hb-api.omnitagsjs.com
+assets.adohetm.com
+eus.rubiconproject.com
+prebid.a-mo.net
+pre.ads.justpremium.com
+htlb.casalemedia.com
+orbidder.otto.de
+buyer.dspx.tv
+ice.360yield.com
+hboopenbid.pubmatic.com
+ups.xplosion.de
+get.s-onetag.com
 
 ## Tech Sites ##
 log.optimezely.com
@@ -613,7 +636,7 @@ narrativ.com
 parsely.com
 srvtrck.com
 sp-prod.net
-
+clc.stackoverflow.com
 ## prvcy ##
 csi.gstatic.com
 firebaseremoteconfig.googleapis.com
