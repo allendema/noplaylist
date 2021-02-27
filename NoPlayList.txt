@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 26.02.2021
+# 27.02.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -635,6 +635,12 @@ hboopenbid.pubmatic.com
 ups.xplosion.de
 get.s-onetag.com
 awin1.com
+visariomedia.com
+mblkunfd.com
+kvygpqttzqhhl.com
+st.chatango.com
+
+
 
 ## Tech Sites ##
 log.optimezely.com
