@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 01.03.2021
+# 04.03.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -395,6 +395,7 @@ quantserve.com
 scorecardresearch.com
 adexchangegate.com
 successiveterrified.com
+code.adsgarden.com
 
 ## DISQUS ##
 referrer.disqus.com
@@ -650,7 +651,8 @@ plausible.io
 track.gravitec.media
 informer.yandex.ru
 sessions.bugsnag.com
-yastatic.net
+yastatic.net      
+www.windowssearch-exp.com
 
 ## Tech Sites ##
 log.optimezely.com
