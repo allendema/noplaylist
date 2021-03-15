@@ -577,6 +577,7 @@ external.simpleanalytics.com
 mookie1.com
 spotxchange.com
 casalemedia.com
+as-sec.casalemedia.com
 advertising.com
 bidswitch.net
 openx.net
@@ -651,8 +652,12 @@ plausible.io
 track.gravitec.media
 informer.yandex.ru
 sessions.bugsnag.com
-yastatic.net      
+yastatic.net
 www.windowssearch-exp.com
+segment-data.zqtk.net
+api.rlcdn.com
+match.adsrvr.org
+datadoghq.com
 
 ## Tech Sites ##
 log.optimezely.com
