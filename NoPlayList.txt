@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 05.04.2021
+# 23.04.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -23,6 +23,8 @@ p.twitter.com
 platform.twitter.com
 ads.twitter.com
 analytics.twitter.com
+static.ads-twitter.com
+
 
 ## Search Engines ##
 improving.duckduckgo.com
@@ -215,6 +217,7 @@ scontent-frt3-2.xx.fbcdn.net
 facebook.com
 facebook.net
 connect.facebook.net
+adtools.facebook.com
 graph.instagram.com
 i.instagram.com
 fbcdn.net
@@ -414,6 +417,33 @@ realtime.services.disqus.com
 ms.applovin.com
 ms.applvn.com
 ads.nexage.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+trackingshipment.apple.com
+metrics.icloud.com
+ad.samsungadhub.com
+ad.xiaomi.com
+api.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+stat.xiaomi.com
+xiaomi.net
+app.chat.xiaomi.ne
+insights.samsung.com
+nmetrics.samsung.com
+smetrics.samsung.com
+bigdata.ssp.samsung.com
+samsungadhub.com
+ad.samsungadhub.com
+samsungads.com
+ad.samsungads.com
+config.samsungads.com
+samsunghealthcn.com
+analytics-api.samsunghealthcn.com
+samsungknox.com
+analytics.samsungknox.com
+
 
 ## Popups & Similar ##
 click.jadspro.live
@@ -701,6 +731,8 @@ www.generaltracking.de
 js-agent.newrelic.com
 cdn.privacy-mgmt.com
 dynamic.criteo.com
+widgets.trustedshops.com
+cdn.matomo.cloud
 
 ## Doublecheck ##
 #fonts.googleapis.com
