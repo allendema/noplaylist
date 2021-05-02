@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 23.04.2021
+# 02.05.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -95,7 +95,7 @@ v1.oddserve.com # Banner
 oddsserve-wqps7yvkz.stackpathdns.com # Banner
 content.livesportmedia.eu # Used by flashscore.de
 
-## Streaming Sites ##
+## From Streaming Sites ##
 browser.events.data.microsoft.com
 kz1c.piguiqproxy.com
 ads3-adnow.com
@@ -591,6 +591,17 @@ zqxmeahcm.com
 miro.medium.com
 idb-fac2.mgxcdn.ru
 www.qsfgszjm.com
+www.cashimashi.com
+www.eoemyywmjx.com
+www.cdn4ads.com
+in-page-push.com
+grauroocm.com
+greenplasticdua.com
+ozongees.com
+www.rkyijdrys.com
+vignerez.net
+gaijiglo.net
+relay.errlog.io
 
 ## Trackers ##
 easyranking.de
