@@ -118,6 +118,9 @@ geoip.redirect-ads.com
 whowhipi.net
 meadowleader.com
 noisysortcasualty.com
+statics.streamable.com
+9purdfe9xg.com
+douhooke.net
 
 ## Android Box ##
 loc.map.baidu.com
