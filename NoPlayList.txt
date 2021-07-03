@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 02.05.2021
+# 03.07.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -111,6 +111,12 @@ counter.yadro.ru
 hb.vntsm.com
 msettesc.top
 preparesecretary.com
+noisysortcasualty.com
+practisecolander.com
+geoip.redirect-ads.com
+whowhipi.net
+meadowleader.com
+noisysortcasualty.com
 
 ## Android Box ##
 loc.map.baidu.com
