@@ -58,6 +58,7 @@ pay-users-pa.googleapis.com
 androidpay-users-pa.googleapis.com # Even if I am not a user
 people-pa.googleapis.com # Used by G Photos to do face-grouping
 clouderrorreporting.googleapis.com # Vrstotal
+fundingchoicesmessages.google.com
 
 
 ## GGLkram ##
