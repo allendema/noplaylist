@@ -721,6 +721,8 @@ datadoghq.com
 librato-collector.genius.com
 analytics.lbry.com
 tag.targeting.unrulymedia.com
+trafficjunky.net
+ctrack.trafficjunky.net
 
 ## Tech Sites ##
 log.optimezely.com
