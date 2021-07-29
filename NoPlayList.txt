@@ -762,6 +762,9 @@ cdn.privacy-mgmt.com
 dynamic.criteo.com
 widgets.trustedshops.com
 cdn.matomo.cloud
+s1.adform.net
+mb-srv.com
+browser-http-intake.logs.datadoghq.eu
 
 ## Doublecheck ##
 #fonts.googleapis.com
