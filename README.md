@@ -3,20 +3,13 @@
 # This list doesn't play!
 
 
+This is a list of domains who track, analyse and show banners.
 
 
-This is a ever growing list of domains who track, analyse and show banners.
+If other domains are listed here but are important, open an issue or pull request.
+The section "Doublecheck" in the end can help.
 
-
-Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
-
-If you rely on G A F A M, you can search for those domains and comment them out.
-
-If other domains are listed here, but are important, open an issue or pull request.
-
-
-
-Also the section "Doublecheck" in the end can help.
+__Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.__
 
 ## Link
 
@@ -25,10 +18,11 @@ https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
 ## Usage
 
-This collection can be used with:\
+This collection can be used with:
+
 Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock) \
 DNS Level blockers like [Blokada.org](https://github.com/blokadaorg), [DNS666](https://f-droid.org/en/packages/org.jak_linux.dns66)\
-Network Wide adblockers like [PiHole](https://pi-hole.net/) 
+Network Wide Adblockers like [PiHole](https://pi-hole.net/) 
 
 [![License: MIT License](https://img.shields.io/github/license/allendema/noplaylist)](https://github.com/allendema/noplaylist/blob/main/LICENSE)
 ![github commits](https://img.shields.io/github/last-commit/allendema/noplaylist)
