@@ -516,6 +516,7 @@ projectagoratech.com
 cmap.alibaba.com	
 s.click.aliexpress.com	
 s-img.steepto.com
+cdn.carbonads.com # Tineye
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
@@ -721,6 +722,7 @@ datadoghq.com
 librato-collector.genius.com
 analytics.lbry.com
 tag.targeting.unrulymedia.com
+b-code.liadm.com
 
 ## Tech Sites ##
 log.optimezely.com
