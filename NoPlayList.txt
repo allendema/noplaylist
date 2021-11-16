@@ -5,7 +5,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 28.07.2021
+# 16.11.2021
 ! Expires: 5 days
 
 ## Reddit ##
@@ -378,7 +378,6 @@ rpm.newrelisc.com
 hostfile.mine.nu
 tags2.adshell.net
 uydeapvmmlvdp.com
-cdn.jsdelivr.net
 paslsa.com
 piguiqproxy.com
 c1.popads.net
@@ -516,6 +515,7 @@ projectagoratech.com
 cmap.alibaba.com	
 s.click.aliexpress.com	
 s-img.steepto.com
+cdn.carbonads.com # Tineye
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
@@ -721,6 +721,8 @@ datadoghq.com
 librato-collector.genius.com
 analytics.lbry.com
 tag.targeting.unrulymedia.com
+b-code.liadm.com
+a.omappapi.com
 trafficjunky.net
 ctrack.trafficjunky.net
 
@@ -764,6 +766,9 @@ cdn.privacy-mgmt.com
 dynamic.criteo.com
 widgets.trustedshops.com
 cdn.matomo.cloud
+s1.adform.net
+mb-srv.com
+browser-http-intake.logs.datadoghq.eu
 
 ## Doublecheck ##
 #fonts.googleapis.com
