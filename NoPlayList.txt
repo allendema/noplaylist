@@ -1,6 +1,7 @@
 # Web Beautifier by Allen
 # This list doesn't play!
 # NoPlayList
+# https://codeberg.org/allendema/NoPlayList/raw/branch/main/NoPlayList.txt
 # https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
