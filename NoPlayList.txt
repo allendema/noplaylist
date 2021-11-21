@@ -778,9 +778,14 @@ browser-http-intake.logs.datadoghq.eu
 #safebrowsing.googleapis.com # Checks your URLs for malware
 #privatestats.whatsapp.net # Sus for tracking
 edge-mqtt.facebook.com # Used to receive DMs and/or notifications
+www.amazon.com
 amazon.com
 bing.com
+www.bing.com
 www.google.com
+google.com
+www.google.de
+google.de
 
 gravatar.com # Used by Wordpress
 www.gravatar.com
