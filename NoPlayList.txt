@@ -371,7 +371,6 @@ mgid.com
 tags.expo9.exponential.com
 www.mgid.com
 v3.logger.pw
-maxcdn.bootstrapcdn.com
 aj1433.online
 jsc.mgid.com
 newrelisc.com
