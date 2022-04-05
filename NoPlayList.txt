@@ -6,7 +6,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 16.11.2021
+# 05.05.2022
 ! Expires: 5 days
 
 ## Reddit ##
@@ -46,7 +46,6 @@ googlesyndication.com
 myphonenumbers-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
 ajax.googleapis.com
-imasdk.googleapis.com
 firebase-settings.crashlytics.com
 userlocation.googleapis.com
 semanticlocation-pa.googleapis.com
@@ -452,7 +451,6 @@ samsunghealthcn.com
 analytics-api.samsunghealthcn.com
 samsungknox.com
 analytics.samsungknox.com
-
 
 ## Popups & Similar ##
 click.jadspro.live
