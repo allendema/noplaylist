@@ -6,7 +6,7 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
-# 03.08.2022
+# 18.08.2022
 ! Expires: 5 days
 
 ## Reddit ##
@@ -115,7 +115,6 @@ practisecolander.com
 geoip.redirect-ads.com
 whowhipi.net
 meadowleader.com
-noisysortcasualty.com
 statics.streamable.com
 9purdfe9xg.com
 douhooke.net
@@ -203,7 +202,6 @@ test-web.googletagmanager.com
 wp.googletagmanager.com
 www-googletagmanager.l.google.com
 www.google-analytics.com
-www.googletagmanager.com
 www.googletagservices.com
 www.ctp.googletagmanager.com
 fonts.gstatic.com
@@ -311,7 +309,6 @@ c.go-mpulse.net
 event.insticator.com
 m.servedby-buysellads.com
 ads.us.e-planning.net
-w3.org
 sandbox.geokaps.com
 
 ## Vod@f0n3 ##
@@ -336,7 +333,6 @@ stun.voip.blackberry.com
 cdn.polyfill.io
 platform.linkedin.com
 startup.mobile.webvisor.com
-cdn.speedcurve.com
 xp.apple.com
 rlcdn.com
 
@@ -416,8 +412,6 @@ gravatar.com
 pagefair.com
 jtvnw.net
 pagefair.net
-pushbullet.com
-quantserve.com
 scorecardresearch.com
 adexchangegate.com
 successiveterrified.com
@@ -481,7 +475,6 @@ served-by.pixfuture.com
 xml.serverhost1.com
 jwpcdn.com
 p.jwpcdn.com
-86a6b542l7.com
 tt1.openload.co
 www.daqijjpjow.com
 cdn.taboola.com
@@ -573,7 +566,6 @@ zuyvdqnsoq.mystream.io
 newnovads.com
 realktalk.xyz
 oecxrvamnvc.com
-v3.logger.pw
 uod2quk646.com
 fffff.at
 use.typekit.net
