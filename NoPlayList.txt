@@ -6,6 +6,16 @@
 
 # Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
+# 20.12.2022
+! Expires: 5 days
+# Web Beautifier by Allen
+# This list doesn't play!
+# NoPlayList
+# https://codeberg.org/allendema/NoPlayList/raw/branch/main/NoPlayList.txt
+# https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
+
+# Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
+
 # 18.08.2022
 ! Expires: 5 days
 
@@ -308,6 +318,8 @@ widgets.outbrain.com
 c.go-mpulse.net
 event.insticator.com
 m.servedby-buysellads.com
+srv.buysellads.com
+cdn4.buysellads.com
 ads.us.e-planning.net
 sandbox.geokaps.com
 
@@ -578,11 +590,9 @@ df80k0z3fi8zg.cloudfront.net
 iqiznxqn.com
 lrd.to
 cdn4.telesco.pe
-js.stripe.com
 m.stripe.network
 eywirvfupvo.com
 www.uprlyxksgcffgn.com	
-vjs.zencdn.net
 www.56.com
 vkcdnservice.appspot.com.storage.googleapis.com
 global.stun.twilio.com
@@ -701,7 +711,6 @@ htlb.casalemedia.com
 orbidder.otto.de
 buyer.dspx.tv
 ice.360yield.com
-hboopenbid.pubmatic.com
 ups.xplosion.de
 get.s-onetag.com
 awin1.com
@@ -726,6 +735,9 @@ b-code.liadm.com
 a.omappapi.com
 trafficjunky.net
 ctrack.trafficjunky.net
+ads.servenobid.com
+smartadserver.com
+prg.smartadserver.com
 
 ## Tech Sites ##
 log.optimezely.com
@@ -771,12 +783,18 @@ s1.adform.net
 mb-srv.com
 browser-http-intake.logs.datadoghq.eu
 
-## Doublecheck ##
-#fonts.googleapis.com
-#api.mapbox.com # Used in Snapchat location, among others.
-#time.google.com # Always good to check first
-#safebrowsing.googleapis.com # Checks your URLs for malware
-#privatestats.whatsapp.net # Sus for tracking
+## Doublecheck and uncomment to block them ##
+# fonts.googleapis.com
+# api.mapbox.com # Used in Snapchat location, among others.
+# time.google.com # Always good to check first
+# safebrowsing.googleapis.com # Checks your URLs for malware
+# privatestats.whatsapp.net # Sus for tracking
+# gravatar.com # Used by Wordpress
+# www.gravatar.com
+# www.2.gravatar.com
+# js.stripe.com payment processor
+
+## Doublecheck and comment to allow them ##
 edge-mqtt.facebook.com # Used to receive DMs and/or notifications
 www.amazon.com
 amazon.com
@@ -786,8 +804,5 @@ www.google.com
 google.com
 www.google.de
 google.de
-
-gravatar.com # Used by Wordpress
-www.gravatar.com
-www.2.gravatar.com
+posthog.hss.element.io
 incoming.telemetry.mozilla.org
