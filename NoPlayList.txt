@@ -64,7 +64,7 @@ firebaseinstallations.googleapis.com
 datamixer.pa.googleapis.com
 sxone-pa.googleapis.com
 pay-users-pa.googleapis.com
-androidpay-users-pa.googleapis.com # Even if I am not a user
+androidpay-users-pa.googleapis.com # Even if not active user
 people-pa.googleapis.com # Used by G Photos to do face-grouping
 clouderrorreporting.googleapis.com # Vrstotal
 fundingchoicesmessages.google.com
@@ -98,7 +98,7 @@ amzn.to # Amazon short links
 track.adform.net
 static-eu.payments-amazon.com
 
-## Livescore.com ##
+## Sports ##
 aj1985.online
 v1.oddserve.com # Banner
 oddsserve-wqps7yvkz.stackpathdns.com # Banner
@@ -485,8 +485,6 @@ df80k0z3fi8zg.cloudfront.net
 ldgozccnwgtuya.com
 served-by.pixfuture.com
 xml.serverhost1.com
-jwpcdn.com
-p.jwpcdn.com
 tt1.openload.co
 www.daqijjpjow.com
 cdn.taboola.com
