@@ -1,23 +1,13 @@
+! Version 17.02.2024
+! Expires: 5 days
+
 # Web Beautifier by Allen
 # This list doesn't play!
 # NoPlayList
 # https://codeberg.org/allendema/NoPlayList/raw/branch/main/NoPlayList.txt
 # https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 
-# Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
-
-# 20.12.2022
-! Expires: 5 days
-# Web Beautifier by Allen
-# This list doesn't play!
-# NoPlayList
-# https://codeberg.org/allendema/NoPlayList/raw/branch/main/NoPlayList.txt
-# https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
-
-# Devices, apps and addons used to create this are: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
-
-# 18.08.2022
-! Expires: 5 days
+# Devices, apps and addons used to create this: uBlock Origin, iOS and Android phones, Blokada, Android Box, PiHole.
 
 ## Reddit ##
 ads.reddit.com
@@ -78,6 +68,7 @@ cdn.ampproject.org
 people-pa.googleapis.com 
 ssl.google-analytics.com
 dns.google
+locationhistory-pa.googleapis.com
 
 ## AMAZOO ##
 amazon.de
@@ -627,7 +618,7 @@ easyranking.de
 hitcount.de
 hitpage.de
 ipstats.de
-met.vgwort.de/
+met.vgwort.de
 perlentaucher.de
 ranktraffic.de
 rapidstats.de
@@ -780,6 +771,9 @@ cdn.matomo.cloud
 s1.adform.net
 mb-srv.com
 browser-http-intake.logs.datadoghq.eu
+omtrdc.net
+deutschebahn.sc.omtrdc.net
+sp.duden.de
 
 ## Doublecheck and uncomment to block them ##
 # fonts.googleapis.com
