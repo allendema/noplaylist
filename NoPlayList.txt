@@ -1,4 +1,4 @@
-! Version: 11.03.2024
+! Version: 16.05.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -319,6 +319,8 @@ beta.vodafone.de
 fc.vodafone.de
 tags.tiqcdn.com
 gcmapi.vodafone.com
+consenthub.utiq.com
+utiq.com
 
 ## Notsogreat ##
 teads.tv
