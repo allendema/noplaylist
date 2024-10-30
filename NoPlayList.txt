@@ -1,4 +1,4 @@
-! Version: 16.05.2024
+! Version: 30.10.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -750,6 +750,7 @@ appspot.l.google.com
 use.adserver.com
 cloudlareinsights.com
 narrativ.com
+piwik.avm.de
 
 ## German Sites ##
 dwin1.com
