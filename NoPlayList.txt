@@ -1,4 +1,4 @@
-! Version: 30.10.2024
+! Version: 31.10.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -222,6 +222,11 @@ google-analytics.com
 traffic.alexa.com
 A535586-android-ds.metric.gstatic.com
 795387-android-ds.metric.gstatic.com
+wpad.dk
+wpad.eu
+wpad.de
+wpad.id
+wpad.site
 
 ## Faceb & Co. ##
 mmx-ds.cdn.whatsapp.net 
