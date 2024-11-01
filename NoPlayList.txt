@@ -1,4 +1,4 @@
-! Version: 31.10.2024
+! Version: 01.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -222,11 +222,6 @@ google-analytics.com
 traffic.alexa.com
 A535586-android-ds.metric.gstatic.com
 795387-android-ds.metric.gstatic.com
-wpad.dk
-wpad.eu
-wpad.de
-wpad.id
-wpad.site
 
 ## Faceb & Co. ##
 mmx-ds.cdn.whatsapp.net 
@@ -734,6 +729,8 @@ ctrack.trafficjunky.net
 ads.servenobid.com
 smartadserver.com
 prg.smartadserver.com
+firstimpression.io
+a.pub.network
 
 ## Tech Sites ##
 log.optimezely.com
@@ -782,9 +779,16 @@ browser-http-intake.logs.datadoghq.eu
 omtrdc.net
 deutschebahn.sc.omtrdc.net
 sp.duden.deomtrdc.net
+cmp.inmobi.com
+ads.themoneytizer.com
 
 ## phish ##
 cinny.im # future phishing
+wpad.dk
+wpad.eu
+wpad.de
+wpad.id
+wpad.site
 
 ## Doublecheck and uncomment to block them ##
 # fonts.googleapis.com
