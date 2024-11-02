@@ -1,4 +1,4 @@
-! Version: 01.11.2024
+! Version: 02.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -731,6 +731,7 @@ smartadserver.com
 prg.smartadserver.com
 firstimpression.io
 a.pub.network
+vitals.vercel-insights.com
 
 ## Tech Sites ##
 log.optimezely.com
