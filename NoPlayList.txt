@@ -1,4 +1,4 @@
-! Version: 02.11.2024
+! Version: 03.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -782,6 +782,8 @@ deutschebahn.sc.omtrdc.net
 sp.duden.deomtrdc.net
 cmp.inmobi.com
 ads.themoneytizer.com
+green-ads.net
+cdn.atf-tagmanager.de
 
 ## phish ##
 cinny.im # future phishing
