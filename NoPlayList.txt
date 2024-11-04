@@ -1,4 +1,4 @@
-! Version: 03.11.2024
+! Version: 04.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -621,6 +621,7 @@ hitcount.de
 hitpage.de
 ipstats.de
 met.vgwort.de
+vg07.met.vgwort.de
 perlentaucher.de
 ranktraffic.de
 rapidstats.de
@@ -732,6 +733,7 @@ prg.smartadserver.com
 firstimpression.io
 a.pub.network
 vitals.vercel-insights.com
+js.hs-analytics.net
 
 ## Tech Sites ##
 log.optimezely.com
@@ -784,6 +786,7 @@ cmp.inmobi.com
 ads.themoneytizer.com
 green-ads.net
 cdn.atf-tagmanager.de
+www.datadoghq-browser-agent.com
 
 ## phish ##
 cinny.im # future phishing
