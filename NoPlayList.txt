@@ -1,4 +1,4 @@
-! Version: 04.11.2024
+! Version: 05.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -734,6 +734,8 @@ firstimpression.io
 a.pub.network
 vitals.vercel-insights.com
 js.hs-analytics.net
+www.statcounter.com
+app.usercentrics.eu
 
 ## Tech Sites ##
 log.optimezely.com
