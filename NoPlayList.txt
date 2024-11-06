@@ -1,4 +1,4 @@
-! Version: 05.11.2024
+! Version: 06.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -736,6 +736,8 @@ vitals.vercel-insights.com
 js.hs-analytics.net
 www.statcounter.com
 app.usercentrics.eu
+js.hs-scripts.com
+cdn.appdynamics.com
 
 ## Tech Sites ##
 log.optimezely.com
