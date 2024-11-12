@@ -1,4 +1,4 @@
-! Version: 10.11.2024
+! Version: 12.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -793,6 +793,8 @@ green-ads.net
 cdn.atf-tagmanager.de
 www.datadoghq-browser-agent.com
 applets.ebxcdn.com
+www.econda-monitor.de
+acdn.adnxs.com
 
 ## phish ##
 cinny.im # future phishing
