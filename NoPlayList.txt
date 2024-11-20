@@ -740,6 +740,9 @@ app.usercentrics.eu
 js.hs-scripts.com
 cdn.appdynamics.com
 api.honeybadger.io
+s.ntv.io
+ak.sail-horizon.com
+permutive.app
 
 ## Tech Sites ##
 log.optimezely.com
