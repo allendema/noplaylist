@@ -1,4 +1,4 @@
-! Version: 16.11.2024
+! Version: 23.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -281,6 +281,9 @@ dlmghzdca.com
 adserver.merciless.fluidads.com
 cdn.sendpulse.com
 o4505071687041024.ingest.sentry.io
+go.ezodn.com
+g.ezodn.com
+g.ezoic.net
 
 ## HardPort ##
 cdn.user-api.com
