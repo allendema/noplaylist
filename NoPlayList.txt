@@ -1,4 +1,4 @@
-! Version: 23.11.2024
+! Version: 24.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -757,6 +757,7 @@ parsely.com
 srvtrck.com
 sp-prod.net
 clc.stackoverflow.com
+ads.adthrive.com
 
 ## prvcy ##
 csi.gstatic.com
