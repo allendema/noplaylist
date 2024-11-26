@@ -1,4 +1,4 @@
-! Version: 24.11.2024
+! Version: 26.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -525,6 +525,11 @@ cmap.alibaba.com
 s.click.aliexpress.com	
 s-img.steepto.com
 cdn.carbonads.com # Tineye
+vdo.ai
+analytics.vdo.ai
+analytics1.vdo.ai
+h5.vdo.ai
+targeting.vdo.ai
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
@@ -746,6 +751,7 @@ api.honeybadger.io
 s.ntv.io
 ak.sail-horizon.com
 permutive.app
+cadmus.script.ac
 
 ## Tech Sites ##
 log.optimezely.com
