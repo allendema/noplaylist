@@ -1,4 +1,4 @@
-! Version: 26.11.2024
+! Version: 28.11.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -530,6 +530,7 @@ analytics.vdo.ai
 analytics1.vdo.ai
 h5.vdo.ai
 targeting.vdo.ai
+media.ethicalads.io
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
