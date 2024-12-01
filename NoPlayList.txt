@@ -1,4 +1,4 @@
-! Version: 28.11.2024
+! Version: 01.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -689,6 +689,7 @@ celeritascdn.com
 ping.staticmoly.me
 graphql.usercentrics.eu
 stats.wp.com
+pixel.wp.com
 jsc.adskeeper.co.uk
 dfmagazone.co.uk
 d1qggq1at2gusn.cloudfront.net
