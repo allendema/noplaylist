@@ -24,7 +24,7 @@ https://github.com/allendema/noplaylist/raw/main/NoPlayList.txt
 This collection can be used with:
 
   - Browser Extentions like [uBlockOrigin](https://github.com/gorhill/uBlock)
-  - DNS Level blockers like [RethinkDNS](https://rethinkdns.com/app)
+  - DNS Level blockers like [AdAway](https://adaway.org/)
   - Network Wide Adblockers like [PiHole](https://pi-hole.net/) 
 
 
