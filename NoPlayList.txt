@@ -1,4 +1,4 @@
-! Version: 02.12.2024
+! Version: 07.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -633,6 +633,7 @@ hitpage.de
 ipstats.de
 met.vgwort.de
 vg07.met.vgwort.de
+vg08.met.vgwort.de
 perlentaucher.de
 ranktraffic.de
 rapidstats.de
@@ -755,6 +756,7 @@ s.ntv.io
 ak.sail-horizon.com
 permutive.app
 cadmus.script.ac
+cdn.adpushup.com
 
 ## Tech Sites ##
 log.optimezely.com
