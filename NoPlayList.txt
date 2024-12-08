@@ -1,4 +1,4 @@
-! Version: 07.12.2024
+! Version: 08.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -532,6 +532,10 @@ analytics1.vdo.ai
 h5.vdo.ai
 targeting.vdo.ai
 media.ethicalads.io
+cdn.snigelweb.com
+keywords.journeymv.com
+exchange.journeymv.com
+scripts.journeymv.com
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
