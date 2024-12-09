@@ -1,4 +1,4 @@
-! Version: 08.12.2024
+! Version: 09.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -761,6 +761,9 @@ ak.sail-horizon.com
 permutive.app
 cadmus.script.ac
 cdn.adpushup.com
+tru.am
+www.dianomi.com
+try.abtasty.com
 
 ## Tech Sites ##
 log.optimezely.com
