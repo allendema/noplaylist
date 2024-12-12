@@ -1,4 +1,4 @@
-! Version: 09.12.2024
+! Version: 12.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -285,6 +285,7 @@ sentry.tools.element.io
 go.ezodn.com
 g.ezodn.com
 g.ezoic.net
+sentry.metabrainz.org
 
 ## HardPort ##
 cdn.user-api.com
