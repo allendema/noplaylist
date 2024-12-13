@@ -1,4 +1,4 @@
-! Version: 12.12.2024
+! Version: 13.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -381,7 +381,6 @@ prebid.mgid.com
 interclick.com
 kaspersky.com
 kaspersky-labs.com
-2.gravatar.com
 fruithosted.net
 mgid.com
 tags.expo9.exponential.com
@@ -419,7 +418,6 @@ crsspxl.com
 deployads.com
 platform-api.sharethis.com
 iptvremote.ru
-gravatar.com
 pagefair.com
 jtvnw.net
 pagefair.net
