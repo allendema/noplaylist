@@ -1,4 +1,4 @@
-! Version: 13.12.2024
+! Version: 15.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -763,6 +763,7 @@ cdn.adpushup.com
 tru.am
 www.dianomi.com
 try.abtasty.com
+insights.navidrome.org
 
 ## Tech Sites ##
 log.optimezely.com
