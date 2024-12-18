@@ -1,4 +1,4 @@
-! Version: 16.12.2024
+! Version: 18.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -766,6 +766,7 @@ try.abtasty.com
 insights.navidrome.org
 assets.zephr.com
 
+
 ## Tech Sites ##
 log.optimezely.com
 logs.optimzely.com
@@ -788,6 +789,9 @@ use.adserver.com
 cloudlareinsights.com
 narrativ.com
 piwik.avm.de
+cdns.symplr.de
+c.amazon-adsystem.com
+ads.assemblyexchange.com
 
 ## German Sites ##
 dwin1.com
@@ -822,6 +826,8 @@ www.datadoghq-browser-agent.com
 applets.ebxcdn.com
 www.econda-monitor.de
 acdn.adnxs.com
+lngtd.com
+cdn.adsafeprotected.com
 
 ## phish ##
 cinny.im # future phishing
