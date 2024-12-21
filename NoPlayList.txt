@@ -1,4 +1,4 @@
-! Version: 20.12.2024
+! Version: 21.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -766,7 +766,8 @@ www.dianomi.com
 try.abtasty.com
 insights.navidrome.org
 assets.zephr.com
-
+unifyintent.com
+cdn.heapanalytics.com
 
 ## Tech Sites ##
 log.optimezely.com
