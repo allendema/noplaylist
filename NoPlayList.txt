@@ -1,4 +1,4 @@
-! Version: 21.12.2024
+! Version: 22.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -768,6 +768,9 @@ insights.navidrome.org
 assets.zephr.com
 unifyintent.com
 cdn.heapanalytics.com
+browser.sentry-cdn.com
+js-de.sentry-cdn.com
+js.sentry-cdn.com
 
 ## Tech Sites ##
 log.optimezely.com
