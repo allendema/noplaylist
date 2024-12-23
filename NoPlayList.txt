@@ -1,4 +1,4 @@
-! Version: 22.12.2024
+! Version: 23.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -783,6 +783,9 @@ srvtrck.com
 sp-prod.net
 clc.stackoverflow.com
 ads.adthrive.com
+ads-static.conde.digital
+globalservices.conde.digital
+s.skimresources.com
 
 ## prvcy ##
 csi.gstatic.com
