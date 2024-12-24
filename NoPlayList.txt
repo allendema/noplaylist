@@ -1,4 +1,4 @@
-! Version: 23.12.2024
+! Version: 24.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -836,6 +836,7 @@ www.econda-monitor.de
 acdn.adnxs.com
 lngtd.com
 cdn.adsafeprotected.com
+matomo1.bpb.de
 
 ## phish ##
 cinny.im # future phishing
