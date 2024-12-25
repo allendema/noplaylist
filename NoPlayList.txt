@@ -1,4 +1,4 @@
-! Version: 24.12.2024
+! Version: 25.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -786,6 +786,8 @@ ads.adthrive.com
 ads-static.conde.digital
 globalservices.conde.digital
 s.skimresources.com
+api.piano.io
+cdn.parsely.com
 
 ## prvcy ##
 csi.gstatic.com
