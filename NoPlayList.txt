@@ -1,4 +1,4 @@
-! Version: 25.12.2024
+! Version: 26.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -771,6 +771,7 @@ cdn.heapanalytics.com
 browser.sentry-cdn.com
 js-de.sentry-cdn.com
 js.sentry-cdn.com
+cdn.fuseplatform.net
 
 ## Tech Sites ##
 log.optimezely.com
