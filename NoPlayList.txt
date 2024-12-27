@@ -1,4 +1,4 @@
-! Version: 26.12.2024
+! Version: 27.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -38,6 +38,7 @@ s1.qwant.com # Had something with 3rd party URLs to do.
 delivery.askmediagroup.com # Ask js
 soflopxl.com # Dogpile
 pixel.tatpek.com # Dogpile Statistics
+bat.bing.com
 
 ## GGL Apis ##
 google-analytics.com
