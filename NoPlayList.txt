@@ -1,4 +1,4 @@
-! Version: 28.12.2024
+! Version: 29.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -773,6 +773,11 @@ browser.sentry-cdn.com
 js-de.sentry-cdn.com
 js.sentry-cdn.com
 cdn.fuseplatform.net
+cdn.brandmetrics.com
+dotmetrics.net
+pub.doubleverify.com
+uk-script.dotmetrics.net
+prebid.the-ozone-project.com
 
 ## Tech Sites ##
 log.optimezely.com
