@@ -1,4 +1,4 @@
-! Version: 29.12.2024
+! Version: 30.12.2024
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -848,6 +848,7 @@ cdn.adsafeprotected.com
 matomo1.bpb.de
 estats.globus.de
 t.adcell.com
+js.kctag.net
 
 ## phish ##
 cinny.im # future phishing
