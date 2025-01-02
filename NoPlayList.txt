@@ -1,4 +1,4 @@
-! Version: 30.12.2024
+! Version: 02.01.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -537,6 +537,7 @@ cdn.snigelweb.com
 keywords.journeymv.com
 exchange.journeymv.com
 scripts.journeymv.com
+contextual.media.net
 
 ## Banners on Streaming Sites ##
 hofraxopw.com
