@@ -1,4 +1,4 @@
-! Version: 02.01.2025
+! Version: 03.01.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -132,6 +132,8 @@ poshhateful.com
 saptiledispatch.com
 simplewebanalysis.com
 mndsrv.com
+statics.wplay.me
+www.blockadsnot.com
 
 ## Android Box ##
 loc.map.baidu.com
