@@ -1,4 +1,4 @@
-! Version: 03.01.2025
+! Version: 01.02.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -860,6 +860,8 @@ wpad.eu
 wpad.de
 wpad.id
 wpad.site
+newpipe.app
+ublock.org
 
 ## Doublecheck and uncomment to block them ##
 # fonts.googleapis.com
