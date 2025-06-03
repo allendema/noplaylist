@@ -1,4 +1,4 @@
-! Version: 11.02.2025
+! Version: 03.06.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -227,7 +227,6 @@ A535586-android-ds.metric.gstatic.com
 795387-android-ds.metric.gstatic.com
 
 ## Faceb & Co. ##
-mmx-ds.cdn.whatsapp.net 
 clients2.google.com
 z-p15-instagram.c10r.facebook.com
 instagram.c10r.facebook.com
