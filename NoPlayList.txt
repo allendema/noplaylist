@@ -1,4 +1,4 @@
-! Version: 03.06.2025
+! Version: 27.06.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -780,6 +780,7 @@ dotmetrics.net
 pub.doubleverify.com
 uk-script.dotmetrics.net
 prebid.the-ozone-project.com
+affiliates.expediagroup.com
 
 ## Tech Sites ##
 log.optimezely.com
