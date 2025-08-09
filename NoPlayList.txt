@@ -1,4 +1,4 @@
-! Version: 27.06.2025
+! Version: 09.08.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -812,6 +812,7 @@ piwik.avm.de
 cdns.symplr.de
 c.amazon-adsystem.com
 ads.assemblyexchange.com
+px.ads.linkedin.com
 
 ## German Sites ##
 dwin1.com
