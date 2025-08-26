@@ -1,4 +1,4 @@
-! Version: 16.08.2025
+! Version: 26.08.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -865,6 +865,7 @@ wpad.site
 newpipe.app
 ublock.org
 snapdrop.net
+ghrc.io
 
 ## Doublecheck and uncomment to block them ##
 # fonts.googleapis.com
