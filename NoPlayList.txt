@@ -1,4 +1,4 @@
-! Version: 26.08.2025
+! Version: 19.10.2025
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -422,7 +422,6 @@ deployads.com
 platform-api.sharethis.com
 iptvremote.ru
 pagefair.com
-jtvnw.net
 pagefair.net
 scorecardresearch.com
 adexchangegate.com
