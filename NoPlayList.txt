@@ -1,4 +1,4 @@
-! Version: 19.10.2025
+! Version: 13.02.2026
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -889,3 +889,4 @@ www.google.de
 google.de
 posthog.hss.element.io
 incoming.telemetry.mozilla.org
+telemetry.go.dev
