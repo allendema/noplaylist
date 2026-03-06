@@ -67,9 +67,9 @@ pubads.g.doubleclick.net
 adservice.google.com
 cdn.ampproject.org
 people-pa.googleapis.com 
-ssl.google-analytics.com
 dns.google
 locationhistory-pa.googleapis.com
+clients2.google.com
 
 ## AMAZOO ##
 amazon.de
@@ -122,7 +122,6 @@ statics.streamable.com
 douhooke.net
 jomtingi.net
 metresetbackbayonet.com
-ads.themoneytizer.com
 tenthsfrumpy.com
 commercialvalue.org
 wpadmngr.com
@@ -212,22 +211,13 @@ fonts.gstatic.com
 googleadservices.com
 update.googleapis.com
 
-## FBBB ##
-ads.ak.facebook.com
-creative.ak.fbcdn.net
-connect.facebook.net
-
 ## Hard Backed ##
-amazon-adsystem.com
 adform.net
-alexametrics.com
-google-analytics.com
 traffic.alexa.com
 A535586-android-ds.metric.gstatic.com
 795387-android-ds.metric.gstatic.com
 
-## Faceb & Co. ##
-clients2.google.com
+## FBB & Co. ##
 z-p15-instagram.c10r.facebook.com
 instagram.c10r.facebook.com
 lookaside.facebook.com
@@ -238,6 +228,8 @@ scontent-frt3-2.xx.fbcdn.net
 facebook.com
 facebook.net
 connect.facebook.net
+ads.ak.facebook.com
+creative.ak.fbcdn.net
 adtools.facebook.com
 graph.instagram.com
 i.instagram.com
@@ -271,7 +263,6 @@ creativecdn.com
 criteo.com
 districtm.io
 emxdgt.com
-rubiconproject.com
 2mdn.net
 js-sec.indexww.com
 quantcast.mgr.consensu.org
@@ -340,7 +331,6 @@ projectagora.net
 projectagoralibs.com
 projectagoraservices.com
 quantcount.com
-smartadserver.com
 onesignal.com
 stun.counterpath.com
 stun.voip.blackberry.com
@@ -423,7 +413,6 @@ platform-api.sharethis.com
 iptvremote.ru
 pagefair.com
 pagefair.net
-scorecardresearch.com
 adexchangegate.com
 successiveterrified.com
 code.adsgarden.com
@@ -459,7 +448,6 @@ nmetrics.samsung.com
 smetrics.samsung.com
 bigdata.ssp.samsung.com
 samsungadhub.com
-ad.samsungadhub.com
 samsungads.com
 ad.samsungads.com
 config.samsungads.com
@@ -480,7 +468,6 @@ splash-screen.vodoo-ads.io
 s7.addthis.com
 allrecepies.com
 cdn.pixfuture.com
-df80k0z3fi8zg.cloudfront.net
 ldgozccnwgtuya.com
 served-by.pixfuture.com
 xml.serverhost1.com
@@ -797,7 +784,6 @@ globalservices.conde.digital
 s.skimresources.com
 api.piano.io
 cdn.parsely.com
-ads-static.conde.digital
 
 ## prvcy ##
 csi.gstatic.com
@@ -807,7 +793,6 @@ data.flurry.com
 appspot.l.google.com
 use.adserver.com
 cloudlareinsights.com
-narrativ.com
 piwik.avm.de
 cdns.symplr.de
 c.amazon-adsystem.com
