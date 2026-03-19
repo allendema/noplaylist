@@ -1,4 +1,4 @@
-! Version: 13.02.2026
+! Version: 19.03.2026
 ! Expires: 5 days
 
 # Web Beautifier by Allen
@@ -784,6 +784,8 @@ globalservices.conde.digital
 s.skimresources.com
 api.piano.io
 cdn.parsely.com
+tag.bounceexchange.com
+metrics-logger.spot.im
 
 ## prvcy ##
 csi.gstatic.com
